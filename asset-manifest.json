@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tienda-qr-front/static/css/main.23195e83.css",
-    "main.js": "/tienda-qr-front/static/js/main.2b30c0df.js",
+    "main.css": "/tienda-qr-front/static/css/main.e4c00c0e.css",
+    "main.js": "/tienda-qr-front/static/js/main.978c760d.js",
     "index.html": "/tienda-qr-front/index.html",
-    "main.23195e83.css.map": "/tienda-qr-front/static/css/main.23195e83.css.map",
-    "main.2b30c0df.js.map": "/tienda-qr-front/static/js/main.2b30c0df.js.map"
+    "main.e4c00c0e.css.map": "/tienda-qr-front/static/css/main.e4c00c0e.css.map",
+    "main.978c760d.js.map": "/tienda-qr-front/static/js/main.978c760d.js.map"
   },
   "entrypoints": [
-    "static/css/main.23195e83.css",
-    "static/js/main.2b30c0df.js"
+    "static/css/main.e4c00c0e.css",
+    "static/js/main.978c760d.js"
   ]
 }
