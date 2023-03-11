@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tienda-qr-front/static/css/main.e4c00c0e.css",
-    "main.js": "/tienda-qr-front/static/js/main.b8bf827b.js",
+    "main.js": "/tienda-qr-front/static/js/main.cccc45cf.js",
     "index.html": "/tienda-qr-front/index.html",
     "main.e4c00c0e.css.map": "/tienda-qr-front/static/css/main.e4c00c0e.css.map",
-    "main.b8bf827b.js.map": "/tienda-qr-front/static/js/main.b8bf827b.js.map"
+    "main.cccc45cf.js.map": "/tienda-qr-front/static/js/main.cccc45cf.js.map"
   },
   "entrypoints": [
     "static/css/main.e4c00c0e.css",
-    "static/js/main.b8bf827b.js"
+    "static/js/main.cccc45cf.js"
   ]
 }
