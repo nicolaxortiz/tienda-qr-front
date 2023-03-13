@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/tienda-qr-front/static/css/main.e4c00c0e.css",
-    "main.js": "/tienda-qr-front/static/js/main.cccc45cf.js",
+    "main.css": "/tienda-qr-front/static/css/main.db8fdb54.css",
+    "main.js": "/tienda-qr-front/static/js/main.518f57af.js",
+    "static/media/logo-android-google-2-svgrepo-com.svg": "/tienda-qr-front/static/media/logo-android-google-2-svgrepo-com.e26d778bb0e5ffb926cf3ee5a67c3caf.svg",
+    "static/media/shop-svgrepo-com.svg": "/tienda-qr-front/static/media/shop-svgrepo-com.e8752f5edfc7eba7ee875cc032b0b707.svg",
     "index.html": "/tienda-qr-front/index.html",
-    "main.e4c00c0e.css.map": "/tienda-qr-front/static/css/main.e4c00c0e.css.map",
-    "main.cccc45cf.js.map": "/tienda-qr-front/static/js/main.cccc45cf.js.map"
+    "main.db8fdb54.css.map": "/tienda-qr-front/static/css/main.db8fdb54.css.map",
+    "main.518f57af.js.map": "/tienda-qr-front/static/js/main.518f57af.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4c00c0e.css",
-    "static/js/main.cccc45cf.js"
+    "static/css/main.db8fdb54.css",
+    "static/js/main.518f57af.js"
   ]
 }
